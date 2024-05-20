@@ -1,0 +1,14 @@
+Isxod:
+Name: A, Speed: 45, Power: 56, Rasxod: 45 89 120 
+Name: B, Speed: 78, Power: 10, Rasxod: 23 56 89 
+Name: C, Speed: 41, Power: 12, Rasxod: 24 12 120 
+
+Sorted:
+Name: B, Speed: 78, Power: 10, Rasxod: 23 56 89 
+Name: A, Speed: 45, Power: 56, Rasxod: 45 89 120 
+Name: C, Speed: 41, Power: 12, Rasxod: 24 12 120 
+
+List copy to vector:
+Name: B, Speed: 78, Power: 10, Rasxod: 23 56 89 
+Name: A, Speed: 45, Power: 56, Rasxod: 45 89 120 
+Name: C, Speed: 41, Power: 12, Rasxod: 24 12 120 
